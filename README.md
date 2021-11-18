@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/freeking51" target="blank"><img src="https://img.shields.io/twitter/follow/freeking51?logo=twitter&style=for-the-badge" alt="freeking51" /></a> </p>
 
+<p align="left"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="https://img.shields.io/whatsapp/follow/whatsapp?logo=whatsapp&style=for-the-badge" alt="whatsapp" /></a> </p>
+
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **jnanisampath@gmail.com**
