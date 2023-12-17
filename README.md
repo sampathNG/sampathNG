@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathng" alt="sampathng" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/freeking51" target="blank"><img src="https://img.shields.io/twitter/follow/freeking51?logo=twitter&style=for-the-badge" alt="freeking51" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" /></a> </p>
 
 <p align="left"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="httphttps://en.wikipedia.org/wiki/File:WhatsApp.svg/follow/whatsapp?logo=whatsapp&style=for-the-badge" alt="whatsapp"></a> </p>
 
