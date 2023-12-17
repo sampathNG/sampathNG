@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" /></a> </p>
 
-<p align="left"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="httphttps://en.wikipedia.org/wiki/File:WhatsApp.svg/follow/whatsapp?logo=whatsapp&style=for-the-badge" alt="whatsapp"></a> </p>
+<p align="right"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="whatsapp"></a> </p>
 
 
 - 🌱 I’m currently learning **MERN Stack**
