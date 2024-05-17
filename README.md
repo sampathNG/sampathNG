@@ -9,7 +9,7 @@
 <section class="contact-info">
   <h3 class="contact-title">Connect with me:</h3>
 
-  <ul class="social-links" list-style-type: none; display: flex;>
+  <ul class="social-links" style="list-style-type: none; display: flex;">
     <li class="social-link">
       <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="_blank" aria-label="LinkedIn Profile">
         <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn Icon" width="24" height="24" />
