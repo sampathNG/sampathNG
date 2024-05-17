@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampathng&label=Profile%20views&color=0e75b6&style=flat" alt="sampathng" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathng" alt="sampathng" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="" /></a> </p>
 
-<p align="right"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="whatsapp"></a> </p>
 
 <section class="contact-info">
   <h3 class="contact-title">Connect with me:</h3>
