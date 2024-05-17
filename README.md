@@ -10,9 +10,8 @@
 <p align="left"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="whatsapp"></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **jnanisampath@gmail.com**
+- 📫 How to reach me **sampathdirac@gmail.com**
 
 
 <p align="left">
