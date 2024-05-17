@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathng" alt="sampathng" /></a> </p>
 
-<h1 style="color: yellow; font-size: 2em;">This is a heading</h1>
 
 <section class="contact-info">
   <h3 class="contact-title">Connect with me:</h3>
-  <ul class="social-links" style="list-style-type: none; display: flex;">
+      <ul class="social-links" style="list-style-type: none; display: flex; padding: 0;">
+
     <li class="social-link">
       <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="_blank" aria-label="LinkedIn Profile">
         <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn Icon" width="24" height="24" />
