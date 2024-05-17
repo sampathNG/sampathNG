@@ -15,12 +15,12 @@
   <ul class="social-links">
     <li class="social-link">
       <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="_blank" aria-label="LinkedIn Profile">
-        <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn Icon" />
+        <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn Icon" width="24" height="24" />
       </a>
     </li>
     <li class="social-link">
       <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="_blank" aria-label="WhatsApp Chat">
-        <img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="WhatsApp Icon" />
+        <img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="WhatsApp Icon" width="24" height="24" />
       </a>
     </li>
   </ul>
