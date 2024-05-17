@@ -9,7 +9,22 @@
 
 <p align="right"> <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="blank"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="whatsapp"></a> </p>
 
+<section class="contact-info">
+  <h3 class="contact-title">Connect with me:</h3>
 
+  <ul class="social-links">
+    <li class="social-link">
+      <a href="https://www.linkedin.com/in/sampath-kumar-732937220/" target="_blank" aria-label="LinkedIn Profile">
+        <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="LinkedIn Icon" />
+      </a>
+    </li>
+    <li class="social-link">
+      <a href="https://api.whatsapp.com/send?phone=+917013229135&text=This%20message%20from%20github%20profile%20view" target="_blank" aria-label="WhatsApp Chat">
+        <img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="WhatsApp Icon" />
+      </a>
+    </li>
+  </ul>
+</section>
 
 - 📫 How to reach me **sampathdirac@gmail.com**
 
