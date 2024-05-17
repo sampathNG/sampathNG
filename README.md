@@ -20,6 +20,11 @@
         <img src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" alt="WhatsApp Icon" width="24" height="24" />
       </a>
     </li>
+    <li class="social-link">
+      <a href="smapathdirac@gmail.com" target="_blank" aria-label="Gmail">
+        <img src="https://www.logoshape.com/wp-content/uploads/2024/02/gmail-new-logo-logoshape.com_.jpg" alt="Gmail Icon" width="24" height="24" />
+      </a>
+    </li>
   </ul>
 </section>
 
