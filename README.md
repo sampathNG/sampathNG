@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathng" alt="sampathng" /></a> </p>
 
-<h1 style="color: red; font-size: 2em;">This is a heading</h1>
+<h1 style="color: yellow; font-size: 2em;">This is a heading</h1>
 
 <section class="contact-info">
   <h3 class="contact-title">Connect with me:</h3>
